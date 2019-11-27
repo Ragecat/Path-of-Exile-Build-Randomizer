@@ -517,7 +517,6 @@ Tidebreaker
 Kongor's Undying Rage
 Song of the Sirens
 Reefbane
-><th width='100
 Blackheart
 Le Heup of All
 Voidheart
@@ -831,3 +830,53 @@ Emperor's Mastery
 The Anima Stone
 Watcher's Eye
 Chris Wilson's Magnificent Beard
+Bitterbind Point
+Cinderswallow Urn
+Flamesight
+Galesight
+Hyperboreus
+Paradoxica
+Solstice Vigil
+The Crimson Storm
+The Devouring Diadem
+The Queen's Hunger
+Thundersight
+Vivinsect
+Whakatutuki o Matua
+Worldcarver
+Hyrri's Truth
+Maloney's Mechanism
+March of the Legion
+The Eternity Shroud
+Vixen's Entrapment
+Bottled Faith
+Wreath of Phrecia
+Sign of the Sin Eater
+Tavukai
+Maw of Conquest
+Lethal Pride
+Divide and Conquer
+Aukuna's Will
+Brutal Restraint
+Elegant Hubris
+Fractal Thoughts
+Glorious Vanity
+Militant Faith
+Badge of the Brotherhood
+Breathstealer
+Cold Iron Point
+Cowl of the Ceraunophile
+Cowl of the Cryophile
+Cowl of the Thermophile
+Fortress Covenant
+Icefang Orbit
+Machina Mitts
+Quickening Covenant
+Rotting Legion
+Siegebreaker
+Sporeguard
+The Jinxed Juju
+The Stampede
+Torchoak Step
+Triad Grip
+Venopuncture

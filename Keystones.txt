@@ -20,6 +20,8 @@ Perfect Agony
 Phase Acrobatics
 Point Blank
 Resolute Technique
+Runebinder
 Unwavering Stance
 Vaal Pact
+WickedWard
 Zealot's Oath
